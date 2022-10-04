@@ -21,10 +21,6 @@ Meeting ID: 857 9687 3697
 Passcode: NumAna
 
 
-
-
-
-
 The first lecture will be on the 4th of October 2022 at 14.00 in Room A-128/A-129 and on teams.
 
 If you intend to follow the course, please join the course team: 
