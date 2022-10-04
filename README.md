@@ -13,6 +13,18 @@ This is a Joint course, between SISSA PhD in Mathematical Analysis, Modeling, an
 
 Most lectures will take place live in room 128-129.
 
+To follow the courses remotely on Zoom:
+
+https://sissa-it.zoom.us/j/85796873697?pwd=cm5HNGRidndvU05UTVAvRkdOdnNrdz09
+
+Meeting ID: 857 9687 3697
+Passcode: NumAna
+
+
+
+
+
+
 The first lecture will be on the 4th of October 2022 at 14.00 in Room A-128/A-129 and on teams.
 
 If you intend to follow the course, please join the course team: 
