@@ -1,5 +1,10 @@
  [![Creative Commons License](http://mirrors.creativecommons.org/presskit/logos/cc.logo.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+# CURRENT LINK:
+
+https://teams.microsoft.com/l/meetup-join/19:FM6l2qzhEidVWfttHXeR0h1lJzNy7uOh6GN5ljlVwhA1@thread.tacv2/1666699906704?context=%7B%22Tid%22:%22a54b3635-128c-460f-b967-6ded8df82e75%22,%22Oid%22:%229875a739-9115-4ad8-8b7a-20029263faf5%22%7D
+
+
 # Applied Mathematics: an Introduction to Scientific Computing
 
 - Luca Heltai (<luca.heltai@sissa.it>)
