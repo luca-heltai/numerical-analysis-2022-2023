@@ -38,6 +38,21 @@ https://teams.microsoft.com/l/team/19%3aFM6l2qzhEidVWfttHXeR0h1lJzNy7uOh6GN5ljlV
 All course material is available at
 
 https://github.com/luca-heltai/numerical-analysis-2022-2023 (this github repository)
+
+## Recordings
+
+In order to access recordings of the lectures, you need to be registered as a
+Team user at the university of Trieste. 
+
+Interested students should send a request to didattica.dmg@units.it, indicating
+that they are Sissa students, taking Prof. Heltai's course and need credentials
+to access Teams, accompanied by the following information:
+
+- first and last name
+- place and date of birth
+- tax code
+- address of residence or domicile in Italy
+- scanned copy of valid front/back ID document
 # Syllabus 2022-2023
 Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 ## Frontal Lectures
