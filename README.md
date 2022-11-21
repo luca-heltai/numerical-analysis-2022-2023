@@ -7,6 +7,20 @@
 
 - Marco Feder (<marco.feder@sissa.it>)
 
+## Course rooms:
+
+Tuesday  22/11 – Aula 004
+Thursday 24/11 – Aula 005
+Tuesday  29/11 – Aula 128-129
+Thursday 01/12 – Aula 128-129
+Tuesday  06/12 – Aula 004
+Tuesday  13/12 – Aula 128-129
+Thursday 15/12 – Aula 128-129
+Tuesday  20/12 – Aula 128-129
+Thursday 22/12 – Aula 128-129
+Tuesday  10/01 – Aula 128-129
+Thursday 12/01 – Aula 128-129
+
 ## Course information
 
 This is a Joint course, between SISSA PhD in Mathematical Analysis, Modeling, and Applications, Laurea Magistrale in Matematica, and Laurea Magistrale in Data Science and Scientific Computing.
