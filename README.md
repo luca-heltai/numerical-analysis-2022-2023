@@ -4,7 +4,7 @@
 
 - Luca Heltai (<luca.heltai@sissa.it>)
 - Gianluigi Rozza (<gianluigi.rozza@sissa.it>)
-
+- Michele Girfoglio (<michele.girfoglio@sissa.it>)
 - Marco Feder (<marco.feder@sissa.it>)
 
 ## Course rooms:
